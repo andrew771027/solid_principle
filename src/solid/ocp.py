@@ -1,0 +1,3 @@
+'''
+Open and Closed Principle
+'''
