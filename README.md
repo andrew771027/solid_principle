@@ -29,3 +29,4 @@ Reference:
 1. [物件導向武功秘笈（1）：認知篇 — 什麼是好的程式？](https://www.ycc.idv.tw/introduction-object-oriented-programming_1.html)
 2. [物件導向武功秘笈（2）：招式篇 — Python與Java的物件導向編程介紹](https://www.ycc.idv.tw/introduction-object-oriented-programming_2.html)
 3. [物件導向武功秘笈（3）：內功篇 — 物件導向指導原則SOLID](https://www.ycc.idv.tw/introduction-object-oriented-programming_3.html)
+4. [Design Patterns: Single Responsibility Principle Explained Practically in C# (The S in SOLID)](https://www.youtube.com/watch?v=5RwhyZnVRS8)
