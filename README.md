@@ -13,7 +13,7 @@
 
 e.g. 飛機 has-a 排程   
 
-2. 聚合關係(Aggregation)：A類中**使用**B類當作「成員變數」，而且A和B有一個弱的「擁有」關係，**A包含B**，但B不是A的一部分，拔掉B，A依然能存在，就稱為：A聚合到B，英文為"owns-a"關係。
+1. 聚合關係(Aggregation)：A類中**使用**B類當作「成員變數」，而且A和B有一個弱的「擁有」關係，**A包含B**，但B不是A的一部分，拔掉B，A依然能存在，就稱為：A聚合到B，英文為"owns-a"關係。
 
 eg. 機場 owns-a 飛機
    
@@ -29,4 +29,9 @@ Reference:
 1. [物件導向武功秘笈（1）：認知篇 — 什麼是好的程式？](https://www.ycc.idv.tw/introduction-object-oriented-programming_1.html)
 2. [物件導向武功秘笈（2）：招式篇 — Python與Java的物件導向編程介紹](https://www.ycc.idv.tw/introduction-object-oriented-programming_2.html)
 3. [物件導向武功秘笈（3）：內功篇 — 物件導向指導原則SOLID](https://www.ycc.idv.tw/introduction-object-oriented-programming_3.html)
-4. [Design Patterns: Single Responsibility Principle Explained Practically in C# (The S in SOLID)](https://www.youtube.com/watch?v=5RwhyZnVRS8)
+4. [淺談物件導向 SOLID 原則對工程師的好處與如何影響能力](https://ithelp.ithome.com.tw/articles/10223329)
+5. [再談 SOLID 原則，Why SOLID?](https://ithelp.ithome.com.tw/articles/10228740)
+6. [物件導向設計原則：單一職責原則，定義、解析與實踐](https://ithelp.ithome.com.tw/articles/10229226)
+7. [物件導向設計原則：開放封閉原則，定義、解析與實踐](https://ithelp.ithome.com.tw/articles/10229362)
+8. [Design Patterns: Single Responsibility Principle Explained Practically in C# (The S in SOLID)](https://www.youtube.com/watch?v=5RwhyZnVRS8)
+9. [Design Patterns: Open Closed Principle Explained Practically in C# (The O in SOLID)](https://www.youtube.com/watch?v=VFlk43QGEgc)
