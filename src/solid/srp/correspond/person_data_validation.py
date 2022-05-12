@@ -1,6 +1,6 @@
 from attr import fields_dict
-from person_data import Person
-from standard_messages import StandardMessages
+from src.solid.srp.correspond.person_data import Person
+from src.solid.srp.correspond.standard_messages import StandardMessages
 
 
 class PersonDataValidator:

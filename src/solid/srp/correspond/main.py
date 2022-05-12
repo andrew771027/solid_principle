@@ -1,8 +1,8 @@
-from standard_messages import StandardMessages
-from person_data import Person
-from person_data_capture import PersonDataCapture
-from person_data_validation import PersonDataValidator
-from account_generator import AccountGenerator
+from src.solid.srp.correspond.standard_messages import StandardMessages
+from src.solid.srp.correspond.person_data import Person
+from src.solid.srp.correspond.person_data_capture import PersonDataCapture
+from src.solid.srp.correspond.person_data_validation import PersonDataValidator
+from src.solid.srp.correspond.account_generator import AccountGenerator
 
 
 def main():
@@ -21,6 +21,3 @@ def main():
 
     StandardMessages.EndApplicationMessage()
 
-
-if __name__ == '__main__':
-    main()

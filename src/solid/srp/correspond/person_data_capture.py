@@ -1,4 +1,4 @@
-from person_data import Person
+from src.solid.srp.correspond.person_data import Person
 
 
 class PersonDataCapture:

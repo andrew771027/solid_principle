@@ -33,7 +33,3 @@ def main():
 
     # Standard Messages
     print("\n")
-
-
-if __name__ == '__main__':
-    main()
