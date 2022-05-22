@@ -19,7 +19,7 @@ class LibraryItemInterface(abc.ABC):
 
     @property
     def title(self):
-        return self.__title
+        return self.__title  
 
     @title.setter
     def title(self, value):
