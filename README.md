@@ -35,3 +35,6 @@ Reference:
 7. [物件導向設計原則：開放封閉原則，定義、解析與實踐](https://ithelp.ithome.com.tw/articles/10229362)
 8. [Design Patterns: Single Responsibility Principle Explained Practically in C# (The S in SOLID)](https://www.youtube.com/watch?v=5RwhyZnVRS8)
 9. [Design Patterns: Open Closed Principle Explained Practically in C# (The O in SOLID)](https://www.youtube.com/watch?v=VFlk43QGEgc)
+10. [Design Patterns: Liskov Substitution Principle Explained Practically in C# (The L in SOLID)](https://youtu.be/-3UXq2krhyw)
+11. [Design Patterns: Interface Segregation Principle Explained Practically in C# (The I in SOLID)](https://youtu.be/y1JiMGP51NE)
+12. [Design Patterns: Dependency Inversion Principle Explained Practically in C# (The D in SOLID)](https://youtu.be/NnZZMkwI6KI) 
